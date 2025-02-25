@@ -1,0 +1,5 @@
+flask
+gunicorn
+requests
+azure-identity
+azure-storage-blob
